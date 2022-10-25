@@ -33,5 +33,10 @@ console.log(hero["name"])
 console.log(hero["weapon"])
 console.log(hero["hair"])
 
+```javascript
+console.log(hero.name)
+console.log(hero.weapon)
+console.log(hero.hair)
+
 ```
 
